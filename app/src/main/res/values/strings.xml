@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mi Auto</string>
+    <string name="hint_placa">Placa:</string>
+    <string name="hint_marca">Marca:</string>
+    <string name="hint_modelo">Modelo:</string>
+    <string name="hint_cilindraje">Cilindraje:</string>
+    <string name="hint_color">Color:</string>
+    <string name="btn_guardar">Guardar Informacion</string>
+    <string name="menu_nuevo">Nuevo Registro</string>
+</resources>
